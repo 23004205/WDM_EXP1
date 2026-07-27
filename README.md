@@ -86,7 +86,7 @@ rainy,75.0,80.0,false,yes
 
 <img width="1223" height="738" alt="image" src="https://github.com/user-attachments/assets/39cf9b20-5f84-4b64-a80c-57a6adcbd416" />
 
-## WEAHER DATA
+##  WEAHER DATA
 
 <img width="835" height="509" alt="image" src="https://github.com/user-attachments/assets/1baafd57-aa3a-44b8-ae8b-de39c1726d6a" />
 
